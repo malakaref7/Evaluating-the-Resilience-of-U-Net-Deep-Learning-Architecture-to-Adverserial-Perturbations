@@ -10,7 +10,6 @@ This repository contains the Jupyter Notebook and resources for evaluating the r
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -39,7 +38,7 @@ Evaluate the Model: Assess the performance of the U-Net model against the advers
 Running the Notebook
 You can open and run the notebook using Jupyter:
 
-Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to discuss any changes or improvements.
 
 
