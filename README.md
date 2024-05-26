@@ -5,7 +5,6 @@ This repository contains resources for evaluating the resilience of the U-Net de
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
@@ -14,30 +13,6 @@ This repository contains resources for evaluating the resilience of the U-Net de
 
 ## Introduction
 Deep learning models like U-Net are widely used for image segmentation tasks but are vulnerable to adversarial attacks. This project investigates the robustness of U-Net to such perturbations and proposes enhancements to its resilience.
-
-## Project Structure
-
-Evaluating-the-Resilience-of-U-Net-Deep-Learning-Architecture-to-Adversarial-Perturbations/
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── adversarial/
-├── notebooks/
-│   └── Robustness_of_U_Net_Against_Adversarial_Attacks.ipynb
-├── src/
-│   ├── models/
-│   │   └── unet.py
-│   ├── utils/
-│   │   └── data_loader.py
-│   ├── generate_adversarial.py
-│   ├── train_model.py
-│   └── evaluate_model.py
-├── tests/
-│   └── test_unet.py
-├── requirements.txt
-└── README.md
-
-
 
 
 ## Installation
